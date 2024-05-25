@@ -1,7 +1,4 @@
 
-**Contact Information:**
-- **Phone:** +222 37030495
-- **Email:** 22053@esp.mr
 
 ## About Me
 
