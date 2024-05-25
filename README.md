@@ -15,14 +15,6 @@ From December 2020 to June 2022, I undertook intensive preparatory classes for e
 ### Lycée Annexe
 In 2020, I earned my Baccalaureate in the Mathematics stream, which laid the groundwork for my analytical and problem-solving skills.
 
-## Professional Experience
-
-### Startup Mauritania Incubator - École Supérieure Polytechnique de Nouakchott
-Since October 2023, I have been involved in an industrial project at the Startup Mauritania Incubator. My role involves designing and deploying a specialized data analysis platform for agricultural data collected from connected sensors. The goal is to evaluate soil quality, detect agricultural diseases, and provide detailed monitoring of agricultural operations. This project allows me to utilize a range of technologies, including Django, Arduino, MQTT, MongoDB, HTML, CSS, and AWS.
-
-### Banque Mauritanienne pour le Commerce International
-In July 2023, I completed a discovery internship at the Banque Mauritanienne pour le Commerce International. This experience allowed me to explore the banking sector and gain my first professional experience. During this internship, I worked with Python, Excel, and Word to understand various banking operations and processes.
-
 ## Skills
 
 - **Programming Languages:** Proficient in Python and R, which I use for data analysis, statistical modeling, and developing machine learning algorithms.
