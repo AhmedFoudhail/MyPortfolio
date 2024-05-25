@@ -1,4 +1,3 @@
-# MyPortfolio
 
 **Contact Information:**
 - **Phone:** +222 37030495
