@@ -1,2 +1,9 @@
 # MyPortfolio
-I want to create a Portfolio That present me as a Data Scientist
+ Data Scientist
+
+#Studies :
+ESP school engineering ,maths physics at IPGEI 
+
+Projects:
+Naive baysien 
+classification et ciblage
