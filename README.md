@@ -42,3 +42,26 @@ In 2020, I earned my Baccalaureate in the Mathematics stream, which laid the gro
 
 I am always eager to learn and take on new challenges that allow me to apply my skills in real-world scenarios. If you would like to collaborate or have any opportunities that align with my expertise, please feel free to reach out.
 
+
+## Projects
+
+### Convertion
+
+In today's competitive market, optimizing conversion rates is crucial for business growth. Analyzing user data from websites provides insights into conversion mechanisms and helps develop effective strategies. The "Convertion" project focuses on creating a robust prediction model to classify users based on their likelihood of conversion. This classification aids in directing marketing efforts and enhancing user experience to maximize conversions and revenue.
+
+#### Problem Statement
+The key challenge is to build an accurate and reliable prediction model that classifies users based on their conversion propensity. This model is essential for guiding marketing strategies and improving user experiences to boost conversion rates and revenue.
+
+#### Proposed Solution
+The project utilizes advanced techniques like logistic regression to develop a conversion prediction model. By meticulously preparing data, selecting relevant variables, constructing the model, and evaluating its performance, we aim to provide precise predictive tools for optimizing marketing campaigns and conversion strategies.
+
+#### Objectives
+- Predict conversion rates.
+- Offer recommendations to the product and marketing teams to enhance conversion rates.
+
+#### Methodology
+Our methodology centers around logistic regression, a proven statistical technique for modeling binary outcomes. Using available data, we will build a predictive model to accurately determine whether a user is likely to convert on the website. This model will guide the identification of key conversion factors and inform strategic decisions for the marketing team.
+
+### Access the Project 
+
+To access the "Convertion" project, visit the [GitHub repository]([https://github.com/AhmedFoudhail/Convertion_Rate](https://github.com/AhmedFoudhail/Convertion_Rate.git)).
