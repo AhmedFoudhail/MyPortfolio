@@ -45,7 +45,7 @@ I am always eager to learn and take on new challenges that allow me to apply my 
 
 ## Projects
 
-### Convertion Rate
+### I-Convertion Rate(images/conversion rate.png)
 
 In today's competitive market, optimizing conversion rates is crucial for business growth. Analyzing user data from websites provides insights into conversion mechanisms and helps develop effective strategies. The "Convertion" project focuses on creating a robust prediction model to classify users based on their likelihood of conversion. This classification aids in directing marketing efforts and enhancing user experience to maximize conversions and revenue.
 
@@ -65,6 +65,6 @@ Our methodology centers around logistic regression, a proven statistical techniq
 ### Access the Project 
 
 
-To access the "Convertion" project, visit the GitHub repository.
+To access the "Convertion Rate" project, visit the GitHub repository.
 
 [![View Jupyter Notebook](https://img.shields.io/badge/View-Jupyter%20Notebook-orange?style=for-the-badge&logo=jupyter)](https://github.com/AhmedFoudhail/Convertion_Rate/blob/847d505767295db2866316b79cbe6590d78659f4/Conversion_Rate.ipynb)
