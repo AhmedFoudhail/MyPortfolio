@@ -45,7 +45,7 @@ I am always eager to learn and take on new challenges that allow me to apply my 
 
 ## Projects
 
-### I-Convertion Rate(images/conversion rate.png)
+### I-Convertion Rate(images/conversion\ rate.png)
 
 In today's competitive market, optimizing conversion rates is crucial for business growth. Analyzing user data from websites provides insights into conversion mechanisms and helps develop effective strategies. The "Convertion" project focuses on creating a robust prediction model to classify users based on their likelihood of conversion. This classification aids in directing marketing efforts and enhancing user experience to maximize conversions and revenue.
 
