@@ -45,7 +45,7 @@ I am always eager to learn and take on new challenges that allow me to apply my 
 
 ## Projects
 
-### ![Conversion Rate](Images/conversion_rate.png)
+### I-Conversion Rate
 
 
 In today's competitive market, optimizing conversion rates is crucial for business growth. Analyzing user data from websites provides insights into conversion mechanisms and helps develop effective strategies. The "Convertion" project focuses on creating a robust prediction model to classify users based on their likelihood of conversion. This classification aids in directing marketing efforts and enhancing user experience to maximize conversions and revenue.
@@ -69,3 +69,27 @@ Our methodology centers around logistic regression, a proven statistical techniq
 To access the "Convertion Rate" project, visit the GitHub repository.
 
 [![View Jupyter Notebook](https://img.shields.io/badge/View-Jupyter%20Notebook-orange?style=for-the-badge&logo=jupyter)](https://github.com/AhmedFoudhail/Convertion_Rate/blob/847d505767295db2866316b79cbe6590d78659f4/Conversion_Rate.ipynb)
+
+
+### Poverty Classification
+
+In a socio-economic context where combating poverty is a priority, the ability to identify and classify households affected by this condition remains crucial. The permanent survey on household living conditions (EPCVM) in Mauritania, particularly the data collected for the year 2019-2020, offers a valuable opportunity to explore and understand the correlations between socio-demographic characteristics and household consumption expenditures, as well as their link to poverty status.
+
+#### Problem Statement
+
+The main challenge is to develop an accurate and reliable model capable of classifying households as poor or non-poor based on socio-demographic variables and consumption expenditure data. This classification is essential for developing targeted policies aimed at efficiently allocating resources and social assistance programs.
+
+#### Proposed Solution
+
+This machine learning project aims to develop a robust classification model using logistic regression techniques to predict the poverty status of households based on EPCVM data. By following the standard steps of a machine learning project, including data preparation, feature selection, model building, evaluation, and result interpretation, we aim to create a reliable tool to identify households in poverty.
+
+#### Methodology
+
+The primary methodology for this project will rely on the use of logistic regression, a suitable method for binary classification. Using this approach, we will build a statistical model to accurately predict whether a household is poor or non-poor based on the available variables in the EPCVM data.
+
+### Access the Project
+
+To access the "Poverty Classification" project, visit the GitHub repository.
+
+[![View Jupyter Notebook](https://img.shields.io/badge/View-Jupyter%20Notebook-orange?style=for-the-badge&logo=jupyter)](https://github.com/AhmedFoudhail/Poverty_classification/blob/d479304f58db78e856bff9ad4cb974ebbb83700d/Classification%20et%20ciblage%20des%20menages%20pauvres.ipynb)
+
