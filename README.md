@@ -45,7 +45,7 @@ I am always eager to learn and take on new challenges that allow me to apply my 
 
 ## Projects
 
-### ![Conversion Rate](images/conversion\ rate.png)
+### ![Conversion Rate]([images/conversion\ rate.png](https://github.com/AhmedFoudhail/MyPortfolio/blob/00f80cb79b9723817ca65e3907fb2deb5b8d78ea/Images/convertion%20rate.png))
 
 
 In today's competitive market, optimizing conversion rates is crucial for business growth. Analyzing user data from websites provides insights into conversion mechanisms and helps develop effective strategies. The "Convertion" project focuses on creating a robust prediction model to classify users based on their likelihood of conversion. This classification aids in directing marketing efforts and enhancing user experience to maximize conversions and revenue.
